@@ -1837,7 +1837,7 @@ input[type=text] {
     width: 100vw;
     height: 27px;
     top: 1063px;
-    left: -2px;
+    left: 0px;
     background-color:#1B8CD8;
     border: 2px #1B8CD8 solid;
     list-style-type:none;
